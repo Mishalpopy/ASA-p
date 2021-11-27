@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ASA/static/css/main.824dca64.chunk.css",
+    "main.js": "/ASA/static/js/main.99d2f335.chunk.js",
+    "main.js.map": "/ASA/static/js/main.99d2f335.chunk.js.map",
+    "runtime-main.js": "/ASA/static/js/runtime-main.9eba73e1.js",
+    "runtime-main.js.map": "/ASA/static/js/runtime-main.9eba73e1.js.map",
+    "static/css/2.ea12cf83.chunk.css": "/ASA/static/css/2.ea12cf83.chunk.css",
+    "static/js/2.d2f60e4b.chunk.js": "/ASA/static/js/2.d2f60e4b.chunk.js",
+    "static/js/2.d2f60e4b.chunk.js.map": "/ASA/static/js/2.d2f60e4b.chunk.js.map",
+    "index.html": "/ASA/index.html",
+    "static/css/2.ea12cf83.chunk.css.map": "/ASA/static/css/2.ea12cf83.chunk.css.map",
+    "static/css/main.824dca64.chunk.css.map": "/ASA/static/css/main.824dca64.chunk.css.map",
+    "static/js/2.d2f60e4b.chunk.js.LICENSE.txt": "/ASA/static/js/2.d2f60e4b.chunk.js.LICENSE.txt",
+    "static/media/icofont.css": "/ASA/static/media/icofont.dad3accb.woff",
+    "static/media/lightgallery.css": "/ASA/static/media/lg.adb7aeef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eba73e1.js",
+    "static/css/2.ea12cf83.chunk.css",
+    "static/js/2.d2f60e4b.chunk.js",
+    "static/css/main.824dca64.chunk.css",
+    "static/js/main.99d2f335.chunk.js"
+  ]
+}
